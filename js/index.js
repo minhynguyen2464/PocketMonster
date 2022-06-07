@@ -15,7 +15,7 @@ image.src = './img/Pellet Town.png';
 
 //create character
 const playerImage = new Image();
-playerImage.src = './img/PlayerDown.png';
+playerImage.src = './img/playerDown.png';
 
 class Sprite{
     constructor({position, velocity, image}){
